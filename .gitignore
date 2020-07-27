@@ -1,0 +1,28 @@
+# Output
+out/
+
+# IntelliJ idea
+.idea/
+
+# VSCode
+.vscode/
+
+# External packages folder
+vendor/
+
+### Go ###
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# MAC specific files
+**/.DS_Store
+
+# Architecture specific extensions/prefixes
+*.exe
+*.test
+*.prof
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
