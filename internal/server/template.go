@@ -3,7 +3,7 @@ package server
 import (
 	`github.com/mdaliyan/ginline/assets`
 
-	"github.com/mdaliyan/ginline/internal/server/pongo2"
+	"github.com/mdaliyan/ginline/internal/pongo2"
 )
 
 func LoadTemplateEngine() {
